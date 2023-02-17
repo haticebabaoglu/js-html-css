@@ -1,0 +1,36 @@
+.image-style{
+    text-align: center;   
+
+}
+.box{
+  text-align: center;
+  border: 1px solid #aaa;
+  border-radius: 35px;
+  width: 40%;
+  margin: auto;
+  margin-top: 30px;
+}
+input{
+outline: none;
+border: none;
+
+}
+ .box:hover{
+  border: 1px solid #aaa;
+}
+
+ .button{
+    border: 1px solid transparent;
+    padding: 9px 15px;
+    color: black;
+    font-size: 14px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+   button:hover {
+    border: 1px solid #aaa;
+  }
+
